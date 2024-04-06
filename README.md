@@ -30,7 +30,9 @@ Rapidamente podemos entender através da análise de sentimentos se precisamos m
 
 
 
+-----------------------------------------------------------------------------------------------------------------
 
 Referências:
+
 https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/09-speech.html
 https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/06-text-analysis.html
