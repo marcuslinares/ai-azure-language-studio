@@ -11,7 +11,7 @@ Utilizando o recurso de "Speech Studio" da Microsfot Azure você pode rapidament
 Como transformar dados não estruturados de um formato para um outro formato para que possamos trabalhar com esses dados em outras ferramentas e extrair análise de sentimentos
 
 
-
+-----------------------------------------------------------------------------------------------------------------
 
 
 ### **Problema de negócio 2:** ###
