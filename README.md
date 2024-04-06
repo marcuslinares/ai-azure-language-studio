@@ -25,9 +25,11 @@ Rapidamente podemos entender através da análise de sentimentos se precisamos m
 
 ### **Imagens demonstrando os resultados** ###
 
+<img src="/inputs/2-language-studio/1-Input-text.PNG">
 
+<img src="/inputs/2-language-studio/2-Output-text-analysis.PNG">
 
-
+<img src="/inputs/2-language-studio/3-Output-text-analysis.PNG">
 
 
 -----------------------------------------------------------------------------------------------------------------
