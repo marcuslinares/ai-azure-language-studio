@@ -10,10 +10,6 @@ Utilizando o recurso de "Speech Studio" da Microsfot Azure você pode rapidament
 ### **Insight:** ###
 Como transformar dados não estruturados de um formato para um outro formato para que possamos trabalhar com esses dados em outras ferramentas e extrair análise de sentimentos
 
-### **Imagens demonstrando os resultados** ###  
-
-
-
 
 
 ### **Problema de negócio 2:** ###
@@ -26,6 +22,7 @@ A ferramenta de análise de sentimento do Azure "Language Studio" é uma boa fer
 Rapidamente podemos entender através da análise de sentimentos se precisamos melhorar a comunicação com nossos clientes, melhorar nossos produtos ou identificar áreas onde podemos atuar para termos resultados melhores.
 
 ### **Imagens demonstrando os resultados** ###
+
 
 
 
