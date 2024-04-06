@@ -12,6 +12,8 @@ Como transformar dados não estruturados de um formato para um outro formato par
 
 
 
+
+
 ### **Problema de negócio 2:** ###
 Imagine um cenário onde você recebe vários arquivos de texto gerado pelo problema de negócio 1, abordado logo acima e precisa extrair "insights" dessas informações, como por exemplo saber se o sua audiência está com uma visão positiva, neutra ou negativa do seu produto ou empresa, qual ferramenta seria ideal para lhe ajudar com essa tarefa?
 
